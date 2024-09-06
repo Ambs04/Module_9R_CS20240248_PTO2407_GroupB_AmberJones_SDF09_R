@@ -9,3 +9,15 @@ let secondCard = 9
 let sum = firstCard + secondCard
 
 console.log(sum)
+
+//SHOWING FOR START OF GAME
+
+
+
+//DECLARATIONS
+
+
+
+
+//FUNCTIONS
+
