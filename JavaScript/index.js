@@ -70,8 +70,7 @@ function loadGame() {
         stillPlaying = false
     
     }
-
-        playerStatus.textContent = status
+      playerStatus.textContent = status
 }
 
 function drawNewCard() {
