@@ -1,4 +1,10 @@
 body{
-    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20240124/pngtree-vibrant-green-felt-texture-perfect-for-poker-and-casino-tables-image_13831424.png");
+    width : 100vw;
+    height: 70vh;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/024/232/274/non_2x/green-casino-poker-table-texture-game-background-free-vector.jpg");
     background-size: cover;
 }
+
+/*FFEDB0 h1
+white for text
+button shadow FFD000*/
